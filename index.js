@@ -74,6 +74,7 @@ inquirer
 ## ${response.tableofcontents}
 * [ Description ](#about)
 * [ Installation ](#installation)
+* [ Tests ](#tests)
 * [ License ](#license)
 * [ Contributing ](#contribution)
 * [ Questions ](#questions)
@@ -89,7 +90,7 @@ inquirer
   
    
 ## Contributing
-    ${response.contribution}
+    ${response.contributors}
   
   
 ## Tests
