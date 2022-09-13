@@ -1,3 +1,4 @@
+// npm install inquirer@8.2.4
 import inquirer from 'inquirer';
 console.log('Testing')
 
